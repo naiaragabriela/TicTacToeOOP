@@ -70,4 +70,4 @@ Este jogo além de ser muito divertido e dinâmico, desenvolve algumas competên
 ✔️ Bem estar psicológico geral.
 
 # Estrelinha! ⭐
-Se você gostou do projeto deixe uma estelinha 👍
+✔️ Se você gostou do projeto deixe uma estelinha 👍
